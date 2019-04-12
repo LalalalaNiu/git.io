@@ -1,9 +1,14 @@
-## Welcome to GitHub Pages
+# Welcome to Xander's recipe blog
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### let this blog become a recipe~~~
 
-### let this blog become a recipe
+First day launch:
 
+
+```
+import cookbook!!!(idea for a package)
+
+```
 
 ```markdown
 Syntax highlighted code block
@@ -18,12 +23,16 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
+
+
+
+
+
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
